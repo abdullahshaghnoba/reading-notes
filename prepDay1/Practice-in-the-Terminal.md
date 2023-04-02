@@ -33,3 +33,4 @@ The command line typically presents you with a prompt. As you type, it will be d
 - rm for Delete a file
 
 ### NO UNDO
+The Linux command line does not have an undo feature. Perform destructive actions carefully.
