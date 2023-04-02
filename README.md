@@ -3,5 +3,5 @@
 
 |Resourses    | Summary     | Some Notes     |
 | :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
+| Header      | Title       | note 1   |
+| Paragraph   | Text        | note 2      |
