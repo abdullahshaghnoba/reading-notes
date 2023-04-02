@@ -3,5 +3,5 @@
 
 |Resourses    | Summary     | Some Notes     |
 | :---        |    :----:   |          ---: |
-| Header      | Title       | note 1   |
+| learn SQL ebook      | sql and DB       | [sql](./reading-notes/sqlAndDB.md)   |
 | Paragraph   | Text        | note 2      |
