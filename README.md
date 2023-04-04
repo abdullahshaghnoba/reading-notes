@@ -1,5 +1,19 @@
 # Reading Notes
+## this web site is about keeping a copy of the reading i have done as a refferance for the future
+---
+## this web site includes :
+1. **md files that contains a summary of the reading i have done**
+2. **folder of images that contains the results I achieved in variety of exercises or assessments.**
+3. **table of content below with shortcut to the reading files and briefed description.**
+---
+## **Code 102 - Intro to Software Development**
+---
+## **Code 201 - Foundations of Software Development**
+---
+## **Code 301 - Intermediate Software Development**
+---
 ## **Code 401 - Advanced Software Development**
+---
 ---
 |Resourses    | Summary     | Some Notes     |
 | :---        |    :----:   |          ---: |
