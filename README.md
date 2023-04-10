@@ -24,4 +24,5 @@
 | https://code.likeagirl.io/in-tests-we-trust-tdd-with-python-af69f47e6932 // https://www.geeksforgeeks.org/what-does-the-if-__name__-__main__-do/ // https://www.geeksforgeeks.org/introduction-to-recursion-data-structure-and-algorithm-tutorials/ // https://realpython.com/python-modules-packages/  | Reading for class 2 | [read more](./prepDay1/reading_class_2.md) |
 |https://towardsdatascience.com/8-common-data-structures-every-programmer-must-know-171acf6a1a42 | Data Structures and Algorithms | [read more](./prepDay1/Data%20Structures%20and%20Algorithms.md)|
 | https://www.mindtools.com/a3mi00v/5-whys | Engineering Reading | [read more](./prepDay1/Engineering%20Reading.md) |
-| https://www.youtube.com/watch?v=Uh2ebFW8OYM // https://realpython.com/python-exceptions/ // https://realpython.com/read-write-files-python/ | Reading for class 3 | [read more](./prepDay1/reading_class_3.md) 
+| https://www.youtube.com/watch?v=Uh2ebFW8OYM // https://realpython.com/python-exceptions/ // https://realpython.com/read-write-files-python/ | Reading for class 3 | [read more](./prepDay1/reading_class_3.md) |
+|https://www.linuxjournal.com/content/python-testing-pytest-fixtures-and-coverage // https://realpython.com/python-thinking-recursively/ // https://www.learnpython.org/en/Classes_and_Objects | Reading for class 4 | [read more ](./prepDay1/reading_class_4.md) |
