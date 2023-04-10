@@ -31,3 +31,5 @@
 ## What is the purpose of pytest fixtures and code coverage in testing Python code? Explain how they can be used together to improve the quality and maintainability of a project?
 
 ### answer :you use fixtures when you want to have some objects available to all of your tests, Those objects might contain data you want to share across tests, or they might involve the network or filesystem., code coverage shows the % that have been excuted of the code so you can make sure that by gitting 100% code coverage after running your test that all of your code have been excuted at least once / Fixtures help to ensure that tests run in a consistent environment, while code coverage helps to identify areas of your code that need testing and areas of your code that can be removed. By using these tools together, you can ensure that your code is well-tested, maintainable, and of high quality.
+
+## Things I want to know more about : None.
