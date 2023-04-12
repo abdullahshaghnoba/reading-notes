@@ -26,3 +26,4 @@
 | https://www.mindtools.com/a3mi00v/5-whys | Engineering Reading | [read more](./prepDay1/Engineering%20Reading.md) |
 | https://www.youtube.com/watch?v=Uh2ebFW8OYM // https://realpython.com/python-exceptions/ // https://realpython.com/read-write-files-python/ | Reading for class 3 | [read more](./prepDay1/reading_class_3.md) |
 |https://www.linuxjournal.com/content/python-testing-pytest-fixtures-and-coverage // https://realpython.com/python-thinking-recursively/ // https://www.learnpython.org/en/Classes_and_Objects | Reading for class 4 | [read more ](./prepDay1/reading_class_4.md) |
+| https://medium.com/basecs/whats-a-linked-list-anyway-part-1-d8b7e6508b9d // https://medium.com/basecs/whats-a-linked-list-anyway-part-2-131d96f71996 // https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-05/resources/singly_linked_list.html | Implementation: Linked Lists | [read more](./prepDay1/Implementation%3A%20Linked%20Lists.md) |
