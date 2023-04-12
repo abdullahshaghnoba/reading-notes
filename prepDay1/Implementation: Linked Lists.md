@@ -103,3 +103,5 @@ llist.print_list()  # Output: E A B C D
 node_B = llist.head.next
 llist.insert_after_node(node_B, "F")
 llist.print_list()  # Output: E A B F C D
+
+## Things I want to know more about : None.
