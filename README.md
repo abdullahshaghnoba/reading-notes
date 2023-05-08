@@ -33,3 +33,4 @@
 | https://www.youtube.com/watch?v=MdHtK7CWpCQ // https://www.youtube.com/watch?v=7jmBE4yPrOs | Reading for class 9 | [read more](./prepDay1/reading_class_9.md) |
 | https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-10/resources/stacks_and_queues.html  | Reading for stacks and queues | [read more](./prepDay1/reading_stacks_and_queus.md) |
 | https://www.tutorialspoint.com/numpy/index.htm // https://www.dataquest.io/blog/numpy-tutorial-python/ // https://jupyterlab.readthedocs.io/en/stable/getting_started/overview.html  | Reading for class 11 | [read more](./prepDay1/reading_class_11.md) |
+| https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS // https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html // https://pandas.pydata.org/pandas-docs/stable/getting_started/intro_tutorials/index.html // | Reading for class 12 | [read more](./prepDay1/reading_class_12.md) |
