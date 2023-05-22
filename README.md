@@ -37,3 +37,4 @@
 | https://towardsdatascience.com/train-test-split-and-cross-validation-in-python-80b61beca4b6 // https://www.youtube.com/watch?v=KsVBBJRb9TE // https://www.activestate.com/resources/quick-reads/how-to-run-linear-regressions-in-python-scikit-learn/ | Reading for class 13 | [read more](./prepDay1/reading_class_13.md) |
 | https://github.com/rougier/matplotlib-tutorial // https://seaborn.pydata.org/tutorial.html // https://mybinder.org/v2/gh/bokeh/bokeh-notebooks/master?filepath=tutorial%2F00%20-%20Introduction%20and%20Setup.ipynb  | Reading for class 14 | [read more](./prepDay1/reading_class_14.md) |
 | https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-15/resources/Trees.html  | Reading for Trees data structure | [read more](./prepDay1/reading_Trees.md) |
+| https://www.ibm.com/topics/serverless // https://vercel.com/docs/concepts/get-started/deploy | Reading for class 16 | [read more](./prepDay1/reading_class_16.md) |
