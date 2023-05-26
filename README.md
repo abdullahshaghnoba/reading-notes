@@ -40,3 +40,4 @@
 | https://www.ibm.com/topics/serverless // https://vercel.com/docs/concepts/get-started/deploy | Reading for class 16 | [read more](./prepDay1/reading_class_16.md) |
 | https://scrapingant.com/blog/scrape-dynamic-website-with-python // https://www.youtube.com/watch?v=yp1o9biMMWU | Reading for class 17 | [read more](./prepDay1/reading_class_17.md) |
 | https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:online-data-security/xcae6f4a7ff015e7d:data-encryption-techniques/a/encryption-decryption-and-code-cracking // https://en.wikipedia.org/wiki/Caesar_cipher | Reading for class 18 | [read more](./prepDay1/reading_class_18.md) |
+| https://www.youtube.com/watch?v=qbW6FRbaSl0&t=69s // https://www.datacamp.com/tutorial/python-regular-expression-tutorial | reading for class 19 | [read more](./prepDay1/reading_class_19.md) |
