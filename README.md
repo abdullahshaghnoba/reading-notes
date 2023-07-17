@@ -52,3 +52,4 @@
 | https://whitenoise.readthedocs.io/en/stable/ /// https://en.m.wikipedia.org/wiki/Cross-origin_resource_sharing /// https://djangostars.com/blog/configuring-django-settings-best-practices/ | Reading for class 34 | [read more](./prepDay1/reading_class_34.md) |
 | https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-35/resources/graphs.html /// chatGPT (to rephrase) | Reading for graphs | [read more](./prepDay1/reading_class_35.md) |
 | https://medium.com/@steve_45636/6-tips-to-ace-a-whiteboard-programming-interview-f06c1b378bc6 /// https://www.youtube.com/watch?v=KdXAUst8bdo | Reading for class 36 | [read more](./prepDay1/reading_class_36.md) |
+| resources | Reading for class 37 | [read more](./prepDay1/reading_class_37.md) |
