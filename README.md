@@ -53,3 +53,4 @@
 | https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-35/resources/graphs.html /// chatGPT (to rephrase) | Reading for graphs | [read more](./prepDay1/reading_class_35.md) |
 | https://medium.com/@steve_45636/6-tips-to-ace-a-whiteboard-programming-interview-f06c1b378bc6 /// https://www.youtube.com/watch?v=KdXAUst8bdo | Reading for class 36 | [read more](./prepDay1/reading_class_36.md) |
 | https://nextjs.org/learn/basics/create-nextjs-app /// https://tailwindcss.com/docs/utility-first /// https://www.taniarascia.com/es6-syntax-and-feature-overview/ | Reading for class 37 | [read more](./prepDay1/reading_class_37.md) |
+| https://legacy.reactjs.org/docs/conditional-rendering.html /// https://legacy.reactjs.org/docs/lifting-state-up.html /// https://legacy.reactjs.org/docs/composition-vs-inheritance.html /// https://react.dev/learn/thinking-in-react  | Reading for class 38 | [read more](./prepDay1/reading_class_38.md) |
