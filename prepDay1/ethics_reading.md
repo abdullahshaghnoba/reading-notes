@@ -1,0 +1,20 @@
+# Article 1: 
+"The Employee Backlash Over Google's Censored Search Engine for China, Explained"
+
+This article highlights the ethical concerns raised by Google employees regarding the development of a censored search engine, called Dragonfly, for internet users in China. The employees argue that the project violates Google's own ethical principles and demand more transparency and employee input in decision-making processes. The situation at Google reflects a broader issue faced by technology companies doing business in China, where the pursuit of profits clashes with ethical considerations, such as human rights and freedom of speech. The article emphasizes the need for employees to have a formal role in evaluating the ethical implications of company projects, and it showcases the power that employees can wield in influencing corporate decisions when they unite for a common cause.
+
+As a software developer, one could find themselves in a situation where they are asked to work on a project that raises ethical concerns, such as assisting in building a tool that supports censorship or violates human rights. This article highlights the importance of developers having a say in such decisions and being aware of the potential implications of their work. It also underscores the responsibility of developers to question and challenge projects that may contradict their ethical values.
+
+# Article 2:
+"Doing Business in China is Good for Shareholders, Bad for Humanity"
+
+The article delves into the ethical dilemma faced by tech companies, like Google, when attempting to do business in China. While China's large population and potential for profits are enticing for Silicon Valley giants, it also means cooperating with an authoritarian government that has a history of human rights abuses and censorship. The article examines the compromises some companies have made to gain access to the Chinese market, leading to concerns about their ethical practices. Google's decision to re-enter the Chinese market with a censored search engine is particularly troubling, given the company's previous commitment to ethical principles.
+
+For a software developer, this article serves as a reminder of the ethical implications of building technology for markets with controversial policies or practices. It urges developers to consider the broader impact of their work beyond profits and to question whether their contributions align with their values and principles. It highlights the importance of advocating for ethical decision-making at the corporate level and seeking ways to ensure transparency and accountability in projects.
+
+# Article 3: 
+"The Push to Make Employees Corporate Stakeholders"
+
+The article discusses the growing momentum to give employees and consumers more power in corporate decision-making, beyond solely prioritizing shareholder value. It presents the Accountable Capitalism Act, a legislative proposal to require large public companies to consider the impact on consumers, employees, and communities in their decision-making process, as an example of how this dynamic could change. Google employees' demand for a more formal role in evaluating the ethical implications of company projects is presented as a case study of how worker input can influence corporate priorities.
+
+For software developers, this article highlights the need for their voices to be heard in strategic decisions within the company. As employees who contribute to creating value for shareholders, they should be involved in discussions about the ethical implications of their work. Developers have a unique perspective on the technology they build and should actively seek ways to influence decisions that align with their ethical values. This can involve supporting initiatives for more transparency, ethical assessments, and open communication about the purpose and potential consequences of the technology they work on.
